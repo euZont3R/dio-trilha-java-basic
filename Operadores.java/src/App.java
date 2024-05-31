@@ -1,6 +1,5 @@
-public class TipoVariaveis {
+public class App {
     public static void main(String[] args) throws Exception {
-        double salarioMinino = 1874;
-
+        System.out.println("Hello, World!");
     }
 }
