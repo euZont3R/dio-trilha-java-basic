@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploBreakContinue",
+            "request": "launch",
+            "mainClass": "ExemploBreakContinue",
+            "projectName": "controle-fluxo_3b5ae0ef"
+        },
+        {
+            "type": "java",
             "name": "ExemplosForArray",
             "request": "launch",
             "mainClass": "ExemplosForArray",
